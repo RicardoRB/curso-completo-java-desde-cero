@@ -129,15 +129,14 @@ Hilos (Threads)
 * [75 - Crear un hilo con Runnable](https://youtu.be/oz9wPzx6-ew?t=3892)
 
 
-## Enlaces de interés
+## Redes sociales
 
-* Impacto: [Índice TIOBE](https://www.tiobe.com/tiobe-index/) | [GitHub](https://github.blog/news-insights/octoverse/octoverse-2024/) | [Stack Overflow](https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language)
-* [Historia](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) | [Kotlin](https://kotlinlang.org/)
-* [Java 8](https://www.java.com/es/download/) | [Java SE](https://www.oracle.com/es/java/technologies/java-se-glance.html) | [Java EE](https://www.oracle.com/es/java/technologies/java-ee-glance.html)
-* [OpenJDK](https://openjdk.org/) | [Oracle JDK](https://www.oracle.com/es/java/technologies/downloads/)
-* Editores: [IntelliJ Community](https://www.jetbrains.com/idea/download/other.html) | [VS Code](https://code.visualstudio.com/docs/languages/java) | [NetBeans](https://netbeans.apache.org/front/main/index.html) | [Eclipse](https://eclipseide.org/) | [BlueJ](https://www.bluej.org/) | [Playground web](https://dev.java/playground/)
-* [Documentación oficial](https://docs.oracle.com/en/java/)
-* [Guía de estilo](https://google.github.io/styleguide/javaguide.html)
+* 📱 [TikTok](https://www.tiktok.com/@programandoenjava)
+* 💬 [Discord](https://discord.gg/K3CeetMx2r)
+* 📸 [Instagram](https://www.instagram.com/programandoenjava/)
+* 🐦 [Twitter / X](https://twitter.com/ProgramandoJava)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ricardoromerobenitez/)
+* 📩 [Newsletter Java Semanal](https://programandoenjava.substack.com/subscribe)
 
 ## Preguntas frecuentes
 
