@@ -15,7 +15,7 @@
 
 <a href="https://youtu.be/oz9wPzx6-ew"><img src="https://www.codeja.dev/_next/image?url=%2Fimages%2Fcourses%2Fcurso-java-introduccion.png&w=1080&q=75" style="height: 50%; width:50%;"/></a>
 
-* [Curso de Java y POO](https://youtu.be/oz9wPzx6-ew)
+* [Curso de Java y POO](https://youtu.be/oz9wPzx6-ew) | [Plataforma CodeJa](https://www.codeja.dev/courses/curso-de-java-introduccion-a-la-programacion-java)
 
 Introducción
 
