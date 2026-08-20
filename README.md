@@ -6,129 +6,127 @@
 
 ![](./Images/header.jpg)
 
-### Proyecto realizado durante emisiones en directo desde el canal de [Programando En Java](https://www.youtube.com/@programando_en_java)
+### Proyecto realizado desde el canal de [Programando En Java](https://www.youtube.com/@programando_en_java)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Clases en vídeo
 
 ### Curso de fundamentos desde cero
 
-<a href="https://youtu.be/JOAqpdM36wI"><img src="http://i3.ytimg.com/vi/JOAqpdM36wI/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/oz9wPzx6-ew"><img src="https://www.codeja.dev/_next/image?url=%2Fimages%2Fcourses%2Fcurso-java-introduccion.png&w=1080&q=75" style="height: 50%; width:50%;"/></a>
 
-* [Curso de Java y POO](https://youtu.be/JOAqpdM36wI)
+* [Curso de Java y POO](https://youtu.be/oz9wPzx6-ew)
 
 Introducción
 
-* [1 - Introducción](https://youtu.be/JOAqpdM36wI?t=307)
-* [2 - Contexto](https://youtu.be/JOAqpdM36wI?t=422)
-* [3 - Historia](https://youtu.be/JOAqpdM36wI?t=823)
-* [4 - Java Virtual Machine (JVM)](https://youtu.be/JOAqpdM36wI?t=1139)
-* [5 - Características del lenguaje](https://youtu.be/JOAqpdM36wI?t=1325)
-* [6 - Usos del lenguaje](https://youtu.be/JOAqpdM36wI?t=1621)
-* [7 - Versiones de Java](https://youtu.be/JOAqpdM36wI?t=1963)
-* [8 - Instalación](https://youtu.be/JOAqpdM36wI?t=2562)
-* [9 - Editores de código](https://youtu.be/JOAqpdM36wI?t=3062)
-* [10 - IDE IntelliJ Idea](https://youtu.be/JOAqpdM36wI?t=3580)
-* [11 - Documentación oficial](https://youtu.be/JOAqpdM36wI?t=3892)
+* [1 - Introducción](https://youtu.be/oz9wPzx6-ew?t=0)
+* [2 - Qué es Java](https://youtu.be/oz9wPzx6-ew?t=13)
+* [3 - Paradigma imperativo](https://youtu.be/oz9wPzx6-ew?t=28)
+* [4 - Portabilidad y JVM](https://youtu.be/oz9wPzx6-ew?t=42)
+* [5 - Características del lenguaje](https://youtu.be/oz9wPzx6-ew?t=60)
+
+Instalación
+
+* [6 - Instalación de Java (OpenJDK)](https://youtu.be/oz9wPzx6-ew?t=61)
+* [7 - Variables de entorno](https://youtu.be/oz9wPzx6-ew?t=101)
+* [8 - Instalación de Eclipse IDE](https://youtu.be/oz9wPzx6-ew?t=130)
+* [9 - Primer proyecto: Hola Mundo](https://youtu.be/oz9wPzx6-ew?t=180)
 
 Primeros pasos
 
-* [12 - Hola Mundo](https://youtu.be/JOAqpdM36wI?t=4250) | [Código](./basic/c00_helloworld/HelloWorld.java)
-* [13 - Comentarios](https://youtu.be/JOAqpdM36wI?t=4937)
-* [14 - Ejercicios: Primeros pasos](https://youtu.be/JOAqpdM36wI?t=5108) | [Ejercicios](./basic/c00_helloworld/HelloWorldExercises.java)
-* [15 - Variables y constantes](https://youtu.be/JOAqpdM36wI?t=5294) | [Código](./basic/c01_beginner/VariablesAndConstants.java) 
-* [16 - Tipos de datos primitivos](https://youtu.be/JOAqpdM36wI?t=6211) | [Código](./basic/c01_beginner/DataTypes.java)
-* [17 - Ejercicios: Variables y constantes](https://youtu.be/JOAqpdM36wI?t=6732) | [Ejercicios](./basic/c01_beginner/BeginnerExercises.java)
+* [10 - Sintaxis en Java](https://youtu.be/oz9wPzx6-ew?t=259)
+* [11 - El método Main](https://youtu.be/oz9wPzx6-ew?t=354)
+* [12 - System.out.println](https://youtu.be/oz9wPzx6-ew?t=385)
 
-Operadores | [Código](./basic/c02_operators/Operators.java)
+Variables y tipos de datos
 
-* [18 - Operadores aritméticos](https://youtu.be/JOAqpdM36wI?t=6803)
-* [19 - Operadores de asignación](https://youtu.be/JOAqpdM36wI?t=7069)
-* [20 - Operadores de comparación](https://youtu.be/JOAqpdM36wI?t=7328)
-* [21 - Operadores lógicos](https://youtu.be/JOAqpdM36wI?t=7517)
-* [22 - Operadores unarios](https://youtu.be/JOAqpdM36wI?t=7863)
-* [23 - Ejercicios: Operadores](https://youtu.be/JOAqpdM36wI?t=8085) | [Ejercicios](./basic/c02_operators/OperatorsExercises.java)
+* [13 - Variables](https://youtu.be/oz9wPzx6-ew?t=420)
+* [14 - Tipo String](https://youtu.be/oz9wPzx6-ew?t=434)
+* [15 - Tipo int (enteros)](https://youtu.be/oz9wPzx6-ew?t=520)
+* [16 - Tipo float y double (decimales)](https://youtu.be/oz9wPzx6-ew?t=549)
+* [17 - Tipo boolean](https://youtu.be/oz9wPzx6-ew?t=578)
+* [18 - Tipo char](https://youtu.be/oz9wPzx6-ew?t=595)
+* [19 - Tipos byte, short, long](https://youtu.be/oz9wPzx6-ew?t=625)
+* [20 - Ejercicios: Variables](https://youtu.be/oz9wPzx6-ew?t=668)
 
-Strings | [Código](./basic/c03_strings/Strings.java)
+Operadores
 
-* [24 - Strings](https://youtu.be/JOAqpdM36wI?t=8140)
-* [25 - Concatenación](https://youtu.be/JOAqpdM36wI?t=8367)
-* [26 - length](https://youtu.be/JOAqpdM36wI?t=8469)
-* [27 - charAt](https://youtu.be/JOAqpdM36wI?t=8535)
-* [28 - substring](https://youtu.be/JOAqpdM36wI?t=8707)
-* [29 - toUpperCase / toLowerCase](https://youtu.be/JOAqpdM36wI?t=8831)
-* [30 - contains](https://youtu.be/JOAqpdM36wI?t=8947)
-* [31 - equals](https://youtu.be/JOAqpdM36wI?t=9118)
-* [32 - trim y replace](https://youtu.be/JOAqpdM36wI?t=9456)
-* [33 - format](https://youtu.be/JOAqpdM36wI?t=9613)
-* [34 - Ejercicios: Strings](https://youtu.be/JOAqpdM36wI?t=9838) | [Ejercicios](./basic/c03_strings/StringsExercises.java)
+* [21 - Operadores aritméticos](https://youtu.be/oz9wPzx6-ew?t=682)
+* [22 - Operadores de asignación](https://youtu.be/oz9wPzx6-ew?t=709)
+* [23 - Operadores de comparación](https://youtu.be/oz9wPzx6-ew?t=732)
+* [24 - Operadores lógicos (AND, OR, NOT)](https://youtu.be/oz9wPzx6-ew?t=753)
+* [25 - Ejercicios: Operadores](https://youtu.be/oz9wPzx6-ew?t=808)
 
-Condicionales | [Código](./basic/c04_conditionals/Conditionals.java) | [Ejercicios](./basic/c04_conditionals/ConditionalsExercises.java)
+Condicionales
 
-* [35 - Condicionales](https://youtu.be/JOAqpdM36wI?t=9908)
-* [36 - Sentencia if](https://youtu.be/JOAqpdM36wI?t=9978)
-* [37 - Sentencia switch](https://youtu.be/JOAqpdM36wI?t=10678)
-* [38 - Ejercicios: Condicionales](https://youtu.be/JOAqpdM36wI?t=11021)
+* [26 - Condicionales If-Else](https://youtu.be/oz9wPzx6-ew?t=814)
+* [27 - Sentencia If](https://youtu.be/oz9wPzx6-ew?t=841)
+* [28 - Sentencia Else](https://youtu.be/oz9wPzx6-ew?t=857)
+* [29 - Condiciones de comparación](https://youtu.be/oz9wPzx6-ew?t=872)
+* [30 - Operadores lógicos en condiciones](https://youtu.be/oz9wPzx6-ew?t=948)
+* [31 - Condicionales anidadas (Else If)](https://youtu.be/oz9wPzx6-ew?t=1040)
+* [32 - Sentencia Switch](https://youtu.be/oz9wPzx6-ew?t=1109)
+* [33 - Ejercicios: Condicionales](https://youtu.be/oz9wPzx6-ew?t=1166)
 
-Estructuras
+Bucles
 
-* [39 - Estructuras de datos](https://youtu.be/JOAqpdM36wI?t=11115)
-* [40 - Arrays](https://youtu.be/JOAqpdM36wI?t=11194) | [Código](./basic/c05_structures/Arrays.java)
-* [41 - Listas](https://youtu.be/JOAqpdM36wI?t=12233) | [Código](./basic/c05_structures/Lists.java)
-* [42 - Sets](https://youtu.be/JOAqpdM36wI?t=13502) | [Código](./basic/c05_structures/Sets.java)
-* [43 - Maps](https://youtu.be/JOAqpdM36wI?t=14574) [Código](./basic/c05_structures/Maps.java)
-* [44 - Ejercicios: Estructuras](https://youtu.be/JOAqpdM36wI?t=15680) | [Ejercicios](./basic/c05_structures/StructuresExercises.java)
+* [34 - Bucles (Introducción)](https://youtu.be/oz9wPzx6-ew?t=1167)
+* [35 - Bucle While](https://youtu.be/oz9wPzx6-ew?t=1194)
+* [36 - Bucle Do-While](https://youtu.be/oz9wPzx6-ew?t=1289)
+* [37 - Bucle For](https://youtu.be/oz9wPzx6-ew?t=1350)
+* [38 - Break y Continue](https://youtu.be/oz9wPzx6-ew?t=1443)
+* [39 - Ejercicios: Bucles](https://youtu.be/oz9wPzx6-ew?t=1567)
 
-Bucles | [Código](./basic/c06_loops/Loops.java)
+Arrays
 
-* [45 - Bucles](https://youtu.be/JOAqpdM36wI?t=15862)
-* [46 - for](https://youtu.be/JOAqpdM36wI?t=16003)
-* [47 - forEach](https://youtu.be/JOAqpdM36wI?t=16646)
-* [48 - while / do while](https://youtu.be/JOAqpdM36wI?t=17199)
-* [49 - Control de bucles](https://youtu.be/JOAqpdM36wI?t=17688)
-* [50 - Ejercicios: Bucles](https://youtu.be/JOAqpdM36wI?t=17993) | [Ejercicios](./basic/c06_loops/LoopsExercises.java)
-
-Funciones | [Código](./basic/c07_functions/Functions.java)
-
-* [51 - Funciones](https://youtu.be/JOAqpdM36wI?t=186100)
-* [52 - Funciones sin parámetros ni retorno](https://youtu.be/JOAqpdM36wI?t=18394)
-* [53 - Funciones con parámetros / Sobrecarga](https://youtu.be/JOAqpdM36wI?t=18827)
-* [54 - Funciones con retorno](https://youtu.be/JOAqpdM36wI?t=19027)
-* [55 - Ejercicios: Funciones](https://youtu.be/JOAqpdM36wI?t=19521) | [Ejercicios](./basic/c07_functions/FunctionsExercises.java)
+* [40 - Arrays (Vectores)](https://youtu.be/oz9wPzx6-ew?t=1568)
+* [41 - Acceder a posiciones del Array](https://youtu.be/oz9wPzx6-ew?t=1610)
+* [42 - Arrays con bucle For](https://youtu.be/oz9wPzx6-ew?t=1700)
+* [43 - Arrays multidimensionales](https://youtu.be/oz9wPzx6-ew?t=1745)
 
 Programación Orientada a Objetos (POO)
 
-* [56 - Programación Orientada a Objetos (POO)](https://youtu.be/JOAqpdM36wI?t=19586)
-* [57 - Clases y objetos](https://youtu.be/JOAqpdM36wI?t=19902) | [Código](./basic/c08_oop/Classes.java) | [Clase Persona](./basic/c08_oop/Person.java)
-* [58 - Ejercicios: Clases y objetos](https://youtu.be/JOAqpdM36wI?t=21434) | [Ejercicios](./basic/c08_oop/ClassesExercises.java)
-* [59 - Modificadores de acceso](https://youtu.be/JOAqpdM36wI?t=21542) | [Código](./basic/c08_oop/AccessModifiers.java) | [Clases (otro paquete para pruebas)](./basic/c08_test_oop/Classes.java)
-* [60 - Ejercicios: Modificadores de acceso](https://youtu.be/JOAqpdM36wI?t=23202) | [Ejercicios](./basic/c08_oop/AccessModifiersExercises.java)
-* [61 - Herencia](https://youtu.be/JOAqpdM36wI?t=23334) | [Código](./basic/c08_oop/Inheritance.java)
-* [62 - Ejercicios: Herencia](https://youtu.be/JOAqpdM36wI?t=24373) | [Ejercicios](./basic/c08_oop/InheritanceExercises.java)
-* [63 - Polimorfismo](https://youtu.be/JOAqpdM36wI?t=24505) | [Código](./basic/c08_oop/Polymorphism.java)
-* [64 - Ejercicios: Polimorfismo](https://youtu.be/JOAqpdM36wI?t=25474) | [Ejercicios](./basic/c08_oop/PolymorphismExercises.java)
-* [65 - Abstracción](https://youtu.be/JOAqpdM36wI?t=25550) | [Código](./basic/c08_oop/Abstraction.java)
-* [66 - Ejercicios: Abstracción](https://youtu.be/JOAqpdM36wI?t=26892) | [Ejercicios](./basic/c08_oop/AbstractionExercises.java)
-* [67 - Composición](https://youtu.be/JOAqpdM36wI?t=26963) | [Código](./basic/c08_oop/Composition.java)
+* [44 - POO: Qué es una clase](https://youtu.be/oz9wPzx6-ew?t=1808)
+* [45 - Crear una clase](https://youtu.be/oz9wPzx6-ew?t=1814)
+* [46 - Clases y objetos](https://youtu.be/oz9wPzx6-ew?t=1850)
+* [47 - Atributos de una clase](https://youtu.be/oz9wPzx6-ew?t=1940)
+* [48 - Métodos en las clases](https://youtu.be/oz9wPzx6-ew?t=2029)
+* [49 - Métodos con retorno y sin retorno](https://youtu.be/oz9wPzx6-ew?t=2047)
+* [50 - Palabra clave static](https://youtu.be/oz9wPzx6-ew?t=2102)
+* [51 - Constructores](https://youtu.be/oz9wPzx6-ew?t=2152)
+* [52 - Constructor vacío y con parámetros](https://youtu.be/oz9wPzx6-ew?t=2190)
+* [53 - Palabra clave this](https://youtu.be/oz9wPzx6-ew?t=2405)
+* [54 - Modificadores de acceso (public, private, protected)](https://youtu.be/oz9wPzx6-ew?t=2458)
+* [55 - Encapsulación (Getters y Setters)](https://youtu.be/oz9wPzx6-ew?t=2552)
+* [56 - Paquetes e import](https://youtu.be/oz9wPzx6-ew?t=2677)
+* [57 - Jerarquía entre clases](https://youtu.be/oz9wPzx6-ew?t=2728)
+* [58 - Herencia (extends)](https://youtu.be/oz9wPzx6-ew?t=2749)
+* [59 - Sobrescritura de métodos (@Override)](https://youtu.be/oz9wPzx6-ew?t=2886)
+* [60 - Polimorfismo](https://youtu.be/oz9wPzx6-ew?t=2974)
+* [61 - Abstracción (clases abstractas)](https://youtu.be/oz9wPzx6-ew?t=2980)
+* [62 - Interfaces](https://youtu.be/oz9wPzx6-ew?t=3090)
+
+Conceptos avanzados
+
+* [63 - Palabra clave final](https://youtu.be/oz9wPzx6-ew?t=3217)
+* [64 - Enums](https://youtu.be/oz9wPzx6-ew?t=3246)
+* [65 - Clase Object (padre de todas las clases)](https://youtu.be/oz9wPzx6-ew?t=3320)
+* [66 - Casting de objetos (instanceof)](https://youtu.be/oz9wPzx6-ew?t=3370)
+* [67 - Genéricos](https://youtu.be/oz9wPzx6-ew?t=3420)
+* [68 - ArrayList](https://youtu.be/oz9wPzx6-ew?t=3536)
 
 Excepciones
 
-* [68 - Excepciones](https://youtu.be/JOAqpdM36wI?t=27441)
-* [69 - Manejo de excepciones](https://youtu.be/JOAqpdM36wI?t=27930) | [Código](./basic/c09_exceptions/Exceptions.java) 
-* [70 - Lanzamiento de excepciones](https://youtu.be/JOAqpdM36wI?t=28611) | [Código](./basic/c09_exceptions/ThrowExample.java)
-* [71 - Excepciones personalizadas](https://youtu.be/JOAqpdM36wI?t=29181) | [Código](./basic/c09_exceptions/CustomException.java)
-* [72 - Ejercicios: Excepciones](https://youtu.be/JOAqpdM36wI?t=29721) | [Ejercicios](./basic/c09_exceptions/ExceptionsExercises.java)
+* [69 - Excepciones (try-catch)](https://youtu.be/oz9wPzx6-ew?t=3617)
+* [70 - Finally](https://youtu.be/oz9wPzx6-ew?t=3706)
+* [71 - Lanzamiento de excepciones (throw)](https://youtu.be/oz9wPzx6-ew?t=3740)
+* [72 - Excepciones personalizadas](https://youtu.be/oz9wPzx6-ew?t=3766)
 
-Depuración de errores |
+Hilos (Threads)
 
-* [73 - Depuración de errores](https://youtu.be/JOAqpdM36wI?t=29772)
-
-Extras |
-
-* [74 - Extras](https://youtu.be/JOAqpdM36wI?t=30409) | [Código](./basic/c10_extras/Extras.java) | [Ejemplo](./basic/c10_extras/ExtrasExample.java)
-* [75 - Ejercicios: Extras](https://youtu.be/JOAqpdM36wI?t=31583) | [Ejercicios](./basic/c10_extras/ExtrasExercises.java)
-
-* [Próximos pasos](https://youtu.be/JOAqpdM36wI?t=31658)
+* [73 - Hilos en Java (Threads)](https://youtu.be/oz9wPzx6-ew?t=3808)
+* [74 - Crear un hilo con Thread](https://youtu.be/oz9wPzx6-ew?t=3815)
+* [75 - Crear un hilo con Runnable](https://youtu.be/oz9wPzx6-ew?t=3892)
 
 
 ## Enlaces de interés
@@ -146,14 +144,9 @@ Extras |
 #### ¿Debo tener conocimientos previos?
 Mi idea es que el curso sea desde cero y para principiantes. Pensado para una persona que comienza por primera vez a programar. Es un curso de fundamentos, donde nos centraremos en aprender las bases del lenguaje con Java puro. Esto no es un curso para aprender a desarrollar proyectos. Vamos a empezar desde el principio.
 
-Si la acogida de la comunidad es buena, seguiré creando cursos más avanzados.
-
 #### ¿Este curso se va a subir a YouTube?
 
-Sí, una vez finalizados, todos los cursos son editados y subidos en bloque a YouTube.
-
-#### ¿Se creará una continuación del curso?
-Si, una vez publicado en YouTube, el apoyo de la comunidad es bueno, crearé un nuevo curso con lecciones más avanzadas.
+Sí, este curso esta actualmente en YouTube y en [CodeJa](https://www.codeja.dev/courses/curso-de-java-introduccion-a-la-programacion-java)
 
 #### ¿Existe algún lugar donde consultar dudas?
 Puedes consultar dudas en los comentarios de los videos del canal de [Programando En Java](https://www.youtube.com/@programando_en_java).
@@ -161,9 +154,10 @@ Puedes consultar dudas en los comentarios de los videos del canal de [Programand
 #### ¿Cómo puedo practicar?
 En cada lección encontrarás ejercicios para poner en práctica lo aprendido.
 
-## ![https://www.youtube.com/@programando_en_java](https://img.youtube.com/vi/JOAqpdM36wI/maxresdefault.jpg) Hola, mi nombre es Programando En Java.
+## ![https://www.youtube.com/@programando_en_java](https://yt3.ggpht.com/IKpzgpfd79CzMOr2xXX-oSlAlN14gm2DbPE_7xS_-AP_hhNQwFVu_GYZD6t1Nc5mh62PgTUm=s176-c-k-c0x00ffffff-no-rj)
+Hola, mi nombre es Ricardo y soy el creador de Programando En Java.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/@programando_en_java?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9NOIj8jphmaPLEa2ufG_hA?style=social)](https://youtube.com/@programando_en_java?sub_confirmation=1)
 
 Canal de YouTube dedicado a enseñar programación Java de manera clara y práctica. Suscríbete para no perderte ningún tutorial.
 
